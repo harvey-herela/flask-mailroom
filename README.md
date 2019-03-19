@@ -1,6 +1,6 @@
 # Flask Mailroom Application
 
-Running at [morning-peak-94707.herokuapp.com](morning-peak-94707.herokuapp.com).
+Running at [http://morning-peak-94707.herokuapp.com](http://morning-peak-94707.herokuapp.com).
 
 ## Your Task
 
